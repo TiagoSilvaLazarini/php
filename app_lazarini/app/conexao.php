@@ -1,9 +1,9 @@
 <?php
 
-$usuario = 'u200861739_sistemalazarin';
-$senha = 'j;p&(369@)9]V2+';
-$database = 'u200861739_lazarinisistem';
-$host = 'localhost';
+$usuario = '';
+$senha = '';
+$database = '';
+$host = '';
 
 $mysqli = new mysqli($host, $usuario, $senha, $database);
 
